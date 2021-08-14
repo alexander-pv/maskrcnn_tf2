@@ -1,5 +1,5 @@
 # conda create -n tf2.3 python=3.7.7
-tensorflow==2.3.*
+tensorflow==2.3.4
 image-classifiers==1.0.0
 keras==2.4.3
 numpy==1.18.5
